@@ -20,7 +20,7 @@ This project demonstrates a range of image processing techniques using Python an
   1. **Grayscale Conversion**: Analyzed the image in grayscale.
   2. **RGB Histograms**: Generated histograms for color distribution.
   3. **Gradients and Intensity Analysis**: Examined the image structure.
-  4. Applied three image processing actions: **Cropping**, **Unsharp Mask**, and **Median Filter**.
+  4. Applied three image processing actions: **Geometric Transformation (Rotation)**, **Central Crop**, and **Sharpening Filter**.
 
 ## How to Run
 
